@@ -1,4 +1,4 @@
-rustc
+rust
 cargo
 absl-py==1.4.0
 aiobotocore==2.18.0
