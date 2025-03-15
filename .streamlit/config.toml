@@ -1,0 +1,13 @@
+#[theme]
+#primaryColor="#6eb52f"
+#backgroundColor="#f0f0f5"
+#secondaryBackgroundColor="#e0e0ef"
+#textColor="#262730"
+#font="sans serif"
+
+[theme]
+primaryColor="#d33682"  #Accent color for interactive elements like st.radio, button borders etc. By default, this is pink.
+backgroundColor="#f0f0f5" #This is the background color for the main body of your app.##002b36
+secondaryBackgroundColor="#e0e0ef"  ##586e75
+textColor="#262730" # Pretty self-explanatory! This is the text color for your app.#fafafa
+font="sans serif"   # Used as the background for st.sidebar and for several widgets.
