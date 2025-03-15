@@ -1,4 +1,6 @@
-﻿absl-py==1.4.0
+rustc
+cargo
+absl-py==1.4.0
 aiobotocore==2.18.0
 aiohappyeyeballs==2.4.3
 aiohttp==3.10.10
