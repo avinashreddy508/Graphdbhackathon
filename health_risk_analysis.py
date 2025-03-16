@@ -14,7 +14,8 @@ from langchain_community.graphs import ArangoGraph
 
 # Load environment variables from .env
 load_dotenv()
-OPENAI_API_KEY=st.secrets['OPENAI_API_KEY']
+#OPENAI_API_KEY=st.secrets['OPENAI_API_KEY']
+OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
 #OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 arango_schema = """
