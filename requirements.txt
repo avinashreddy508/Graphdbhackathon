@@ -1,4 +1,5 @@
 python-arango
+pyarango
 absl-py==1.4.0
 aiobotocore==2.18.0
 aiohappyeyeballs==2.4.3
